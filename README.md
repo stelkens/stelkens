@@ -32,19 +32,40 @@ My background combines computer science, cognitive science and humanities. I enj
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Languages
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Technical Skills
 
 | Programming Languages | Tools & Technologies |
-|:---:|:---:|
+|:---|:---|
 | C | Linux |
 | C++ | Git |
 | Go | Bash / Shell |
 | Lisp | Microsoft Office |
 | ACT-R | MS Project |
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### Languages
+
+| Language | Level |
+|:---|:---:|
+| German | Native* |
+| English | C1 |
+| French | B2 |
+| Spanish | B1 |
+| German Sign Language | A2 |
+| Hausa | A1 |
+
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -69,21 +90,6 @@ B.A. Ethnology & Cognitive Science · 2016 – 2020
 - Systems programming
 
 ---
-
-## 🌐 Languages
-
-| Language | Level |
-|:---|:---:|
-| German | Native* |
-| English | C1 |
-| French | B2 |
-| Spanish | B1 |
-| German Sign Language | A2 |
-| Hausa | A1 |
-
----
-
-<div align="center">
 
 ### Let's Connect!
 
